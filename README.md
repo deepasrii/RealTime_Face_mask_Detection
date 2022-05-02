@@ -1,6 +1,6 @@
 #                             RealTime_Face_mask_Detection
 
-A Face Mask detector in real-time video streams with OpenCv, Tensorflow/keras in Deep Learning is implemented.
+A Face Mask detector in real-time video stream with OpenCV, TensorFlow/keras using Deep Learning.
 
 phase 1: train_mask_detector.py
 
